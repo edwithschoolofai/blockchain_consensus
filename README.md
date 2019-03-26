@@ -13,6 +13,9 @@
 
 터미널에서 `jupyter notebook`을 실행하면 브라우저에 코드가 보일 것입니다.
 
+## IPython 
+[ 코드 돌려보기 (Colab) ](https://colab.research.google.com/github/edwithschoolofai/blockchain_consensus/blob/master/blockchain_consensus.ipynb)
+
 ## Credits
 
 [tenthirtyone](https://github.com/tenthirtyone/Proof_of_Work)에게 감사의 말씀을 전합니다. 이 코드는 제가 조금만 변형한 것입니다.
